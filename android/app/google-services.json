@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967007639924",
+    "project_id": "crmga-d817b",
+    "storage_bucket": "crmga-d817b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967007639924:android:babb59094ad617ba653421",
+        "android_client_info": {
+          "package_name": "com.example.crmga_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2oUxDgXyh3_ZRxMkVwvajMaeaax1JV7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
