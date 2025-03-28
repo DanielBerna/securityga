@@ -168,7 +168,7 @@ class _CrearQRScreenState extends State<CrearQRScreen> {
               if (selectedCategory == "Permiso") ...[
                 _buildTextField(empleadoController, "Número de Empleado", Icons.badge),
                 _buildTextField(nombreController, "Nombre", Icons.person),
-                _buildTextField(permisoController, "Tipo de Permiso", Icons.assignment),
+                _buildTextField(permisoController, "Tipo de permiso", Icons.assignment),
                 _buildTextField(tiempoController, "Tiempo de Permiso", Icons.access_time),
               ] else ...[
                 _buildTextField(responsableController, "Responsable", Icons.person_outline),

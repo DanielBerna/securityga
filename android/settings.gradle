@@ -26,3 +26,6 @@ plugins {
 }
 
 include ":app"
+
+gradle.ext.properties["android.useAndroidX"] = true
+gradle.ext.properties["android.enableJetifier"] = true

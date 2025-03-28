@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 class InventarioCarsScreen extends StatefulWidget {
+  const InventarioCarsScreen({super.key});
+
   @override
   _InventarioCarsScreenState createState() => _InventarioCarsScreenState();
 }
